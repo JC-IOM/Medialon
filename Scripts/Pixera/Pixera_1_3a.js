@@ -1,8 +1,11 @@
 // Javascript for Medialon MXM Script
 // Device: Pixera Media Server
 // Created by Joe Callister
-// Copyright (c) 2023 Joe Callister
 // September 2023
+//
+// Copyright (c) 2023 Joe Callister
+// Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+//
 // Version 1.0 - Initial version
 // Version 1.1 - Working version! - Added new buffer handler function to deal with null bytes in reply string
 // Version 1.2 - QMedialon TCP issues resolved
